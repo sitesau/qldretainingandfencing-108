@@ -1,0 +1,22 @@
+{
+  "wheel_id": 532,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-108",
+  "project": "retaining-wall-builders-brisbane-common-mistakes-9cc67bc77e779a",
+  "parent_t1_ref": "qldretainingandfencing-153",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall builders brisbane common mistakes",
+  "intended_url": "https://sitesau.github.io/qldretainingandfencing-108/",
+  "tier": "T2",
+  "writeback_nonce": "f435a14dee21e331",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-brisbane-timeline-12ebdb03f924c51a1f920/",
+      "anchor": "Retaining Wall Builders Brisbane Timeline: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
